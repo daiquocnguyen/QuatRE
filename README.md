@@ -27,9 +27,14 @@
 - Pytorch 1.5.0
 
 ### Running commands:
+	
+	python train_QuatRE.py --nbatches 100 --dataset WN18RR --hidden_size 256 --neg_num 5 --valid_step 400  --num_epochs 8000 --learning_rate 0.1 --lmbda 0.5 --model_name WN18RR_nb100_hs256_neg5_lr0.1_ld0.5
 
+	python train_QuatRE.py --nbatches 100 --dataset FB15K237 --hidden_size 384 --neg_num 10 --valid_step 200  --num_epochs 2000 --learning_rate 0.1 --lmbda 0.5 --model_name FB15K237_nb100_hs384_neg10_lr0.1_ld0.5
 
-The code is based on the OpenKE framework.
+	python train_QuatRE.py --nbatches 100 --dataset WN18 --hidden_size 256 --neg_num 10 --valid_step 400  --num_epochs 8000 --learning_rate 0.1 --lmbda 0.1 --model_name WN18_nb100_hs256_neg10_lr0.1_ld0.1
+	
+	python train_QuatRE.py --nbatches 100 --dataset FB15K --hidden_size 384 --neg_num 5 --valid_step 200  --num_epochs 2000 --learning_rate 0.02 --lmbda 0.05 --model_name FB15K_nb100_hs384_neg5_lr0.02_ld0.05
 
 ## Cite 
 
@@ -47,3 +52,7 @@ Please cite the paper whenever QuatRE is used to produce published results or in
 As a free open-source implementation, QuatRE is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. All other warranties including, but not limited to, merchantability and fitness for purpose, whether express, implied, or arising by operation of law, course of dealing, or trade usage are hereby disclaimed. I believe that the programs compute what I claim they compute, but I do not guarantee this. The programs may be poorly and inconsistently documented and may contain undocumented components, features or modifications. I make no guarantee that these programs will be suitable for any application.
 
 QuatRE is licensed under the Apache License 2.0.
+
+### Note
+
+The code is based on the OpenKE framework.
