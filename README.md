@@ -11,9 +11,7 @@
 <a href="https://github.com/daiquocnguyen/QuatRE/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/daiquocnguyen/QuatRE"></a>
 <img alt="GitHub" src="https://img.shields.io/github/license/daiquocnguyen/QuatRE">
 
-- This program provides the implementation of our QuatRE - a simple but powerful and effective KG embedding model - as described in [our paper](https://arxiv.org/abs/2009.12517), where we embed entities and relations within the Quaternion space with Hamilton product.
-
-- QuatRE further utilizes two relation-aware quaternion vectors for each relation to strengthen the correlations between the head and tail entities. Our QuatRE obtains state-of-the-art performances on four well-known datasets including WN18, WN18RR, FB15K, and FB15k237 for knowledge graph completion.
+- This program provides the implementation of our QuatRE - a simple yet effective KG embedding model - as described in [our paper](https://arxiv.org/abs/2009.12517), where QuatRE further utilizes two relation-aware quaternion vectors for each relation to strengthen the correlations between the head and tail entities within the Quaternion space.
 
 <p align="center">
 	<img src="https://github.com/daiquocnguyen/QuatRE/blob/master/QuatRE.png" width="350">
