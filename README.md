@@ -11,7 +11,7 @@
 <a href="https://github.com/daiquocnguyen/QuatRE/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/daiquocnguyen/QuatRE"></a>
 <img alt="GitHub" src="https://img.shields.io/github/license/daiquocnguyen/QuatRE">
 
-- This program provides the implementation of our QuatRE - a simple yet effective KG embedding model - as described in [our paper](https://arxiv.org/abs/2009.12517), where QuatRE further utilizes two relation-aware quaternion vectors for each relation to strengthen the correlations between the head and tail entities within the Quaternion space.
+- This program provides the implementation of our QuatRE - a simple yet effective KG embedding model - as described in [our paper](https://arxiv.org/abs/2009.12517), where QuatRE further utilizes two relation-aware rotations to strengthen the correlations between the head and tail entities within the Quaternion space.
 
 <p align="center">
 	<img src="https://github.com/daiquocnguyen/QuatRE/blob/master/QuatRE.png" width="350">
@@ -21,7 +21,7 @@
 ## Usage
 
 ### News
-- November 02, 2020: The extended abstract of [our paper](https://arxiv.org/abs/2009.12517) has been accepted to the NeurIPS 2020 Workshop on Differential Geometry meets Deep Learning ([DiffGeo4DL](https://sites.google.com/view/diffgeo4dl/)).
+- November 02, 2020: The [extended abstract](https://github.com/daiquocnguyen/QuatRE/blob/master/QuatRE_WS.pdf) of [our paper](https://arxiv.org/abs/2009.12517) has been accepted to the NeurIPS 2020 Workshop on Differential Geometry meets Deep Learning ([DiffGeo4DL](https://sites.google.com/view/diffgeo4dl/)).
 
 
 ### Requirements
