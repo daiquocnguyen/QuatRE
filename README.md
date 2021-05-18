@@ -46,7 +46,7 @@ Please cite the paper whenever QuatRE is used to produce published results or in
 	@article{Nguyen2020QuatRE,
 		author={Dai Quoc Nguyen and Thanh Vu and Tu Dinh Nguyen and Dinh Phung},
 		title={QuatRE: Relation-Aware Quaternions for Knowledge Graph Embeddings},
-		journal={NeurIPS 2020 Workshop on Differential Geometry meets Deep Learning. arXiv preprint arXiv:2009.12517},
+		journal={arXiv preprint arXiv:2009.12517},
 		year={2020}
 	}
 
