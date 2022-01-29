@@ -21,7 +21,7 @@
 ## Usage
 
 ### News
-- November 02, 2020: The extended abstract of [our paper](https://arxiv.org/abs/2009.12517) has been accepted to the NeurIPS 2020 Workshop on Differential Geometry meets Deep Learning ([DiffGeo4DL](https://sites.google.com/view/diffgeo4dl/)).
+- November 02, 2020: The extended abstract of [our paper](https://arxiv.org/abs/2009.12517) has been accepted to the NeurIPS 2020 <i>Non-archival</i> Workshop on Differential Geometry meets Deep Learning ([DiffGeo4DL](https://sites.google.com/view/diffgeo4dl/)).
 
 
 ### Requirements
