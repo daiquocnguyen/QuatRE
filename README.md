@@ -20,10 +20,6 @@
 
 ## Usage
 
-### News
-- November 02, 2020: The extended abstract of [our paper](https://arxiv.org/abs/2009.12517) has been accepted to the NeurIPS 2020 <i>Non-archival</i> Workshop on Differential Geometry meets Deep Learning ([DiffGeo4DL](https://sites.google.com/view/diffgeo4dl/)).
-
-
 ### Requirements
 - Python 3.x
 - Pytorch 1.5.0
@@ -43,11 +39,11 @@
 
 Please cite the paper whenever QuatRE is used to produce published results or incorporated into other software:
 
-	@article{Nguyen2020QuatRE,
+	@inproceedings{NguyenQuatRE,
 		author={Dai Quoc Nguyen and Thanh Vu and Tu Dinh Nguyen and Dinh Phung},
 		title={QuatRE: Relation-Aware Quaternions for Knowledge Graph Embeddings},
-		journal={arXiv preprint arXiv:2009.12517},
-		year={2020}
+		booktitle={Proceedings of TheWebConf 2022 (Poster and Demo Track)},
+		year={2022}
 	}
 
 ## License
