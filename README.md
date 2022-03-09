@@ -42,7 +42,7 @@ Please cite the paper whenever QuatRE is used to produce published results or in
 	@inproceedings{NguyenQuatRE,
 		author={Dai Quoc Nguyen and Thanh Vu and Tu Dinh Nguyen and Dinh Phung},
 		title={QuatRE: Relation-Aware Quaternions for Knowledge Graph Embeddings},
-		booktitle={Proceedings of the ACM Web Conference 2022 (Poster and Demo Track)},
+		booktitle={Proceedings of the Web Conference WWW 2022 (Poster and Demo Track)},
 		year={2022}
 	}
 
